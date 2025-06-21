@@ -1,6 +1,7 @@
 # Max-and-Sena-Snake-game
 
 This is a simple Snake game made by Max and Sena, characters from **[내일은 실험왕]**. (These are not my images and from google)
+
 It's designed for beginners around 6th grade elementary to 2nd grade middle school level.
 
 ---
